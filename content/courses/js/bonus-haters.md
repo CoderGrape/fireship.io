@@ -2,14 +2,11 @@
 title: JavaScript for the Haters
 description: All the reasons people hate JavaScript
 weight: 50
-lastmod: 2022-11-11T10:23:30-09:00
+lastmod: 2023-17-22 8:16 -0900
 draft: false
 emoji: 🤬
-video_length: tbd
+video_length: 
+youtube: aXOChLn5ZdQ
 chapter_start: Bonus Round
 free: true
 ---
-
-# Coming Soon...
-
-JavaScript for the Haters will drop on Thanksgiving, November 24th, 2022.
